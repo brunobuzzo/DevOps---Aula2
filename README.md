@@ -1,2 +1,4 @@
 # DevOps---Aula2
-Aula 2
+Brad Pitt
+Jake Gyllenhal
+Hugh Jackman
