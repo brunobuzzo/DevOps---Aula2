@@ -1,4 +1,5 @@
 # DevOps---Aula2
 Brad Pitt
-Jake Gyllenhal
+Angelina Jolie
 Hugh Jackman
+Eva Mendes
